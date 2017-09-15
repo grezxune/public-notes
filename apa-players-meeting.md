@@ -41,4 +41,5 @@
 11. How many points for bye
 12. How many points for forfeit
 13. FOLLOW THE FACEBOOK PAGE - ALL EVENTS AND NEWS ARE POSTED HERE
+    - https://www.facebook.com/centralwisconsinapa
 14. Any questions/problems from last session?

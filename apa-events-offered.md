@@ -20,22 +20,22 @@
     - APA Masters Championship (August)
 
 # Local Qualification Rules
-1. World Pool Qualifier (WPQ) (Formerly LTC)
+1. **World Pool Qualifier (WPQ) (Formerly LTC)**
     - Win point leader for your division, OR win your playoff match
     - Have at least 4 members of your team with at least 4 matches played the session of qualification
 
-2. Border Battle (Niagara/Ohio)
+2. **Border Battle (Niagara/Ohio)**
     - Win qualifier tournament held at end of summer session (any team can play)
     - Have at least 4 members of your team with at least 4 matches played
     - At the time of the border battle, all members playing in border battle must have 10 matches in the last 1 year
 
-3. Singles Boards (Regional Qualifier)
+3. **Singles Boards (Regional Qualifier)**
     - Any player with 10 matches played in the past 1 year can participate
     - Must be active on a standard team
     - If you qualify, you have to remain active on a team in order to go to regionals
 
 # Showdown Series Tournaments
-1. 8-Ball Doubles Championship (April/May)
+1. **8-Ball Doubles Championship (April/May)**
     - Friday, April 27, 2018 - Sunday, April 29, 2018
     - Registration - 9:00 AM - Noon on Friday, April 27, 2018
     - Westgate Resort & Casino in Las Vegas
@@ -50,7 +50,7 @@
     - Players may only participate on one team
     - Players cannot be Wheelchair Champtionship or 9-Ball shootout participants
 
-2. APA Wheelchair Championship (April/May)
+2. **APA Wheelchair Championship (April/May)**
     - Thursday, April 26, 2018 - Friday, April 27, 2018
     - Registration - 9:00 AM - 11:00 AM on Thursday, April 26, 2018
     - Westgate Resort & Casino in Las Vegas
@@ -60,7 +60,7 @@
     - Players must have at least 20 8-Ball scores within the past 2 years by the entry deadline of March 13, 2018
     - Players must be on an active (Spring session) APA roster in any 8-Ball format
 
-3. APA Jack & Jill Championship (August)
+3. **APA Jack & Jill Championship (August)**
     - Sunday, August 12, 2018 - Tuesday, August 14, 2018
     - Registration - 9:00 AM - Noon on Sunday, August 12, 2018
     - Westgate Resort & Casino in Las Vegas
@@ -74,7 +74,7 @@
     - Players must be on an active (Summer session) APA roster in any 8-Ball format
     - Players may only participate on one team
 
-4. APA Ladies 8-Ball Championship (August)
+4. **APA Ladies 8-Ball Championship (August)**
     - Thursday, August 9, 2018 - Sunday, August 12, 2018
     - Registration - 9:00 AM - Noon on Thursday, August 9, 2018
     - Westgate Resort & Casino in Las Vegas
@@ -90,7 +90,7 @@
     - Players must have played at least four times in the Spring session in the league. Matches must be in the standard 8-Ball format or on a Ladies Division team
     - Players must be on an active (Summer session) APA roster in any 8-Ball format
 
-5. APA Masters Championship (August)
+5. **APA Masters Championship (August)**
     - Tuesday, August 14, 2018 - Friday, August 17, 2018
     - Registration - 5:00 PM - 8:00 PM on Tuesday, August 14, 2018
     - Westgate Resort & Casino in Las Vegas
@@ -111,16 +111,16 @@
     - Players must be on an active (Summer session) APA roster in any 8-Ball or 9-Ball format or on a Masters Division roster
 
 # Mini Mania (Mini tournaments alongside main events in Vegas, April/May & August)
-    - Must be a current APA member.
-    - Must be 18 years of age.
-    - Must have 20 scores in ONE format (8-ball or 9-ball) in the past 2 years. 10 scores in both 8-ball and 9-ball will not count as 20.
-    - If you have 20 scores in 8-ball, you can shoot 9-ball minis and vice versa.
-    - Photo ID is required during play and again at cash payout.
-    - Only the person entering an event may register. No one may register for you. NO EXCEPTIONS.
-    - Both partners must be present to register for any Doubles event.
-    - You will have only a 15-minute grace period after your match is called or you will forfeit.
-    - You will have up to 15 minutes *prior* to the event to be able to sell your entry. All sales must be made through the MiniMania control table.
-    - All tournaments are 100% payback of entry fees.
-    - All APA rules in effect at all times.
-    - NO GAMBLING!
-    - Tables are $1/game
+- Must be a current APA member.
+- Must be 18 years of age.
+- Must have 20 scores in ONE format (8-ball or 9-ball) in the past 2 years. 10 scores in both 8-ball and 9-ball will not count as 20.
+- If you have 20 scores in 8-ball, you can shoot 9-ball minis and vice versa.
+- Photo ID is required during play and again at cash payout.
+- Only the person entering an event may register. No one may register for you. NO EXCEPTIONS.
+- Both partners must be present to register for any Doubles event.
+- You will have only a 15-minute grace period after your match is called or you will forfeit.
+- You will have up to 15 minutes *prior* to the event to be able to sell your entry. All sales must be made through the MiniMania control table.
+- All tournaments are 100% payback of entry fees.
+- All APA rules in effect at all times.
+- NO GAMBLING!
+- Tables are $1/game
