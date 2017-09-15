@@ -2,8 +2,8 @@
 1. Weekly Fee Amount
 2. Day & time of play
 3. Team Sign Up
-    - If you get a new team w/ at least 3 new members = COMPTED MEMBERSHIP
-4. Playing for World Pool Qualifier (LTC) qualification AND _______
+    - If you get a new team w/ at least 3 new members = COMPED MEMBERSHIP
+4. Playing for World Pool Qualifier (formerly LTC) qualification AND
     - Summer
         - Niagara Falls
     - Fall
