@@ -10,7 +10,7 @@
 
 # Higher Level Tournaments Offered By Us
 1. World Pool Qualifier (WPQ, formerly LTC)
-2. APA Poolplayer Championships (after regionals) [Player gets $325 from nationals when you arrive]
+2. APA Poolplayer Championships (after regionals) [Player gets $425 ($325 travel assistance, $100 qualifier money), and a commemorative prize package from nationals when you arrive]
 3. Singles Boards
 4. Qualifiers for Showdown Series
     - 8-Ball Doubles Championship (April/May)
